@@ -1,0 +1,1 @@
+import{Hc as e,Wt as i}from"./CYCtEOoG.js";var t=e("favToken",()=>{const e=i({prefix:"favToken",defaultFixedWidth:280});return{...e,visible:e.visible,favTokenBoundingRect:e.boundingRect}});export{t};
