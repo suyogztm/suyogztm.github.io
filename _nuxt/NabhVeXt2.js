@@ -1,0 +1,1 @@
+import{Fr as r}from"./CVYA-6lY.js";function o(o){!1!==o&&r.error(String(o))}export{o as t};

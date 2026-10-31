@@ -1,0 +1,1 @@
+import{g as t}from"./6LbxYvOj.js";import{On as n}from"./CVYA-6lY.js";function o(t){const n=Number(t);return n>0?Math.min(n,100)/100:0}function r(){const r=n();return t(()=>o(r.audioSettings.audio.volume))}export{r as n,o as t};
